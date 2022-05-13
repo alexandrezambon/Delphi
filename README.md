@@ -1,3 +1,3 @@
 # Delphi
 Cadastro de contatos
-Arquivo executavel para Windows.
+Arquivo executável para Windows.
